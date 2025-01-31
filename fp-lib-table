@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "mlcflex")(type "KiCad")(uri "${KIPRJMOD}/mlcflex.pretty")(options "")(descr ""))
+)
