@@ -2,7 +2,7 @@
 mlcflex is a flex PCB SD Card interposer for the Wii U. It is intended to be used to replace dying Hynix eMMC NANDs with a microSD slot.
 
 ## BOM
-- Molex 503398-1892 (can be found on most parts distrobuters)
+- Molex 503398-1892 (can be found on most parts distributors)
 - 0402 1uF MLCC
 
 ## KiCAD Pics
