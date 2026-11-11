@@ -12,8 +12,8 @@ mlcflex is a flex PCB SD Card interposer for the Wii U. It is intended to be use
 
 ## Install Pics
 
-![](https://github.com/Lazr1026/mlcflex/blob/main/Pics/install1.png?raw=true)
-![](https://github.com/Lazr1026/mlcflex/blob/main/Pics/install2.png?raw=true)
+![](https://github.com/Lazr1026/mlcflex/blob/main/Pics/install1.jpg?raw=true)
+![](https://github.com/Lazr1026/mlcflex/blob/main/Pics/install2.jpg?raw=true)
 
 ## Credits
 - [jan-hofmeier/SDIO](https://github.com/jan-hofmeier) for the original [PoC SD Card replacement](https://gbatemp.net/threads/626448/) and [mlc2sd](https://github.com/jan-hofmeier/mlc2sd).
